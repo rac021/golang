@@ -25,5 +25,5 @@
 
 Atom + plugin **go-plus**
 
-![go_lang](https://cloud.githubusercontent.com/assets/7684497/17587576/86b21bf4-5fc9-11e6-9a65-39b2ac4bb0b8.png)
+![go_001](https://cloud.githubusercontent.com/assets/7684497/17587946/be03478e-5fcb-11e6-992b-602da420291e.png)
 
