@@ -24,8 +24,8 @@ func rootHandler(writer http.ResponseWriter, request *http.Request )  {
 
   //writer.Write([]byte("\n"))
   writer.Write(payload)
-  //writer.Write([]byte("\n"))
-  //writer.Write([]byte("\n"))
+  writer.Write([]byte("\n"))
+  writer.Write([]byte("\n"))
 }
 
 func main() {  
